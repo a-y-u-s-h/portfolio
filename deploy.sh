@@ -9,7 +9,7 @@
 #  ======================================
 
 dir=$(pwd)
-gatsby build --prefix-paths && gh-pages -d public -b master
+gatsby build --prefix-paths && mv public/ docs/ && gh-pages -d public -b master
 git add . && git commit -m "Update source code."
 
 #  ======================================
