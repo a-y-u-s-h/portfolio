@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Inconvenience is Regretted",
+    "category": ["design", "code"],
+    "client": "Public",
+    "year": "2019",
+    "featured": true,
+    "url": "/",
+    "image": {
+      "src": "/images/works/inconvenience is regretted/inconvenience is regretted.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": [
+            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/inconvenience is regretted/inconvenience is regretted.png"
+          ]
+        },
+        {
+          "srcset": [
+            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/inconvenience is regretted/inconvenience is regretted.png"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "HellCry",
+    "category": ["design", "code"],
+    "client": "Public",
+    "year": "2019",
+    "featured": true,
+    "url": "/",
+    "image": {
+      "src": "/images/works/hellcry/hellcry.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": [
+            "/images/works/hellcry/hellcry.png",
+            "/images/works/hellcry/hellcry.png",
+            "/images/works/hellcry/hellcry.png"
+          ]
+        },
+        {
+          "srcset": [
+            "/images/works/hellcry/hellcry.png",
+            "/images/works/hellcry/hellcry.png",
+            "/images/works/hellcry/hellcry.png"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Growser",
+    "category": ["code"],
+    "client": "@taggosaurus",
+    "collaborators": [""],
+    "year": "2019",
+    "featured": false
+  }
+]
