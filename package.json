@@ -5,7 +5,7 @@
   "main": "n/a",
   "scripts": {
     "dev": "yarn clean && gatsby develop",
-    "clean": "rimraf ./public",
+    "clean": "gatsby clean",
     "build": "yarn clean && gatsby build",
     "lint:css": "stylelint './src/**/*.js'",
     "lint:js": "eslint './src/**/*.js'",

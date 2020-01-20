@@ -33,7 +33,7 @@ export const Wrapper = styled.div`
     left: 0;
     bottom: 0;
     transform: translateY(100%);
-    color: ${colors.blue900};
+    color: ${colors.gray500};
     background: ${colors.darkblue};
     width: fit-content;
     padding: 0 1rem;
