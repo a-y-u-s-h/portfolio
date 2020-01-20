@@ -41,16 +41,16 @@ export const Title = styled.h1`
   margin-bottom: 4rem;
 
   span.black {
-    color: white;
-    background: black;
+    color: ${colors.blue900};
+    background: ${colors.darkblue};
     padding: 0.4rem;
-    border: 1px solid black;
+    border: 1px solid transparent;
   }
   
   span.white {
-    color: black;
-    background: white;
+    color: ${colors.darkblue};
+    background: ${colors.blue900};
     padding: 0.4rem;
-    border: 1px solid black;
+    border: 1px solid transparent;
   }
 `

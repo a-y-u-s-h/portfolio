@@ -1,5 +1,5 @@
-import styled, { css } from 'styled-components'
-import { colors, media, getOuterSpace } from '../../style/constants'
+import styled, { css } from "styled-components"
+import { colors, media, getOuterSpace } from "../../style/constants"
 
 export const Wrapper = styled.div`
   ${media.md`
@@ -18,13 +18,14 @@ export const Shoable = styled.div`
     overflow: hidden;
     transition: max-height .6s cubic-bezier(0.45, 0, .1, 1);
     will-change: max-height;
-    ${props => props.open 
-      ? css`
-        max-height: 200px;
-      `
-      : css`
-        max-height: 0;
-      `}
+    ${props =>
+      props.open
+        ? css`
+            max-height: 200px;
+          `
+        : css`
+            max-height: 0;
+          `}
     
     > div {
       padding: 0 3rem 3rem;
@@ -50,6 +51,6 @@ export const Header = styled.header`
     width: 100%;
     min-height: 7rem;
     background-image: linear-gradient(to bottom,rgba(30,39,51,0.0) 0%,rgba(30,39,51, 0.3) 50%);
-    ${getOuterSpace('padding')};
+    ${getOuterSpace("padding")};
   `}
 `

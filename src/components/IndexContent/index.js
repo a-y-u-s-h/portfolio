@@ -2,7 +2,7 @@ import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import { DifferentContentWrapper } from "../../style/shared"
 import { Wrapper, InfoWrapper, Content, StyledImage } from "./style"
-import { GridLayout, GridItem, Span2, Span3 } from "./style"
+import { GridLayout, GridItem, Span2, Span3, Span3P } from "./style"
 
 const infoQuery = graphql`
   query infoQuery {
@@ -38,7 +38,8 @@ const indexContent = data => () => {
           ? item.grid.map(cell => (
               <GridItem>
                 <Span3>{cell.heading}</Span3>
-                <Span3>{cell.paragraph}</Span3>
+                <br/>
+                <Span3P>{cell.paragraph}</Span3P>
               </GridItem>
             ))
           : ""

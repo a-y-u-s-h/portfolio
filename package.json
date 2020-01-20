@@ -11,7 +11,7 @@
     "lint:js": "eslint './src/**/*.js'",
     "gzip": "gzip -r public",
     "deploy": "bash deploy.sh",
-    "pubblish": "yarn run build && yarn run deploy"
+    "publish": "yarn run build && yarn run deploy"
   },
   "keywords": [
     "react",

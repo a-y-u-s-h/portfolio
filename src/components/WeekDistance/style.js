@@ -1,5 +1,5 @@
-import styled, { keyframes } from 'styled-components'
-import { fonts, colors } from '../../style/constants'
+import styled, { keyframes } from "styled-components"
+import { fonts, colors } from "../../style/constants"
 
 export const loading = keyframes`
   0% {
@@ -13,7 +13,7 @@ export const loading = keyframes`
 
 export const DistanceWrapper = styled.div`
   font-family: ${fonts.mono};
-  font-size: .9rem;
+  font-size: 0.9rem;
   color: ${colors.gray500};
 `
 
@@ -21,7 +21,7 @@ export const DistanceLoader = styled.div`
   display: inline-block;
   height: 1rem;
   width: 10rem;
-  animation-duration: .75s;
+  animation-duration: 0.75s;
   animation-fill-mode: forwards;
   animation-iteration-count: infinite;
   animation-name: ${loading};
@@ -32,11 +32,11 @@ export const DistanceLoader = styled.div`
 `
 
 export const EmojiWrapper = styled.span`
-  font-size: .95rem;
+  font-size: 0.95rem;
   color: initial;
   display: inline-block;
   vertical-align: middle;
-  margin-right: .5rem;
+  margin-right: 0.5rem;
 `
 
 export const Kilometers = styled.a`

@@ -24,8 +24,8 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: ${colors.blue900};
-    color: #000;
+    background: ${colors.blue800};
+    color: ${colors.blue900};
     font-family: ${fonts.sansSerif};
     backface-visibility: hidden;
     overflow-y: scroll;
@@ -40,9 +40,9 @@ export const GlobalStyle = createGlobalStyle`
     color: inherit;
     text-decoration: none;
     transition: color ease-in .2s;
-    
+
     &:hover {
-      color: #000;
+      color: ${colors.blue900};
     }
   }
 

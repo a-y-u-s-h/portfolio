@@ -1,8 +1,11 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+import React from "react"
+import PropTypes from "prop-types"
 
-const EmailMe = ({ className, text }) => 
-  <a className={className} rel="noopener" href='mailto:contact@raincode.org'>{text}</a>
+const EmailMe = ({ className, text }) => (
+  <a className={className} rel="noopener" href="mailto:/code.ayush@gmail.com">
+    {text}
+  </a>
+)
 
 EmailMe.propTypes = {
   className: PropTypes.string,
@@ -10,7 +13,7 @@ EmailMe.propTypes = {
 }
 
 EmailMe.defaultProps = {
-  className: ''
+  className: ""
 }
 
 export default EmailMe

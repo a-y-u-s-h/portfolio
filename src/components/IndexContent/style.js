@@ -56,7 +56,7 @@ export const StyledImage = styled(Image)`
 `
 
 export const InfoWrapper = styled.header`
-  grid-row: 2 / 4;
+  grid-row: 2 / 6;
   grid-column: 1 / 6;
   z-index: 3;
   ${media.md`
@@ -93,7 +93,7 @@ export const Content = styled.main`
 export const GridLayout = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  grid-gap: 1rem;
+  grid-gap: 0.5rem;
   grid-auto-rows: minmax(140px, auto);
   grid-auto-flow: dense;
   padding: 1rem;
@@ -105,12 +105,12 @@ export const GridItem = styled.div`
   font-weight: inherit;
   text-transform: uppercase;
   color: #000;
-  background-color: #FFF;
+  background-color: ${colors.blue900};
   border-radius: 0px;
-  border: 1px solid black;
+  border: 1px solid transparent;
   &:nth-child(odd) {
-    background-color: #000;
-    color: #FFF;
+    background-color: ${colors.darkblue};
+    color: #fff;
   }
 `
 
@@ -121,5 +121,14 @@ export const Span2 = styled.span`
 
 export const Span3 = styled.span`
   grid-column-end: span 3;
+  grid-row-end: span 5;
+  font-size: 0.8rem;
+`
+
+export const Span3P = styled.span`
+  grid-column-end: span 3;
   grid-row-end: span 4;
+  font-weight: 300;
+  text-transform: none;
+  font-size: 0.8rem;
 `

@@ -1,7 +1,7 @@
-import styled, { css } from 'styled-components'
-import EmailMe from '../EmailMe'
-import Divider from './divider.svg'
-import { colors, fonts, media } from '../../style/constants'
+import styled, { css } from "styled-components"
+import EmailMe from "../EmailMe"
+import Divider from "./divider.svg"
+import { colors, fonts, media } from "../../style/constants"
 
 export const Wrapper = styled.section`
   max-width: 80%;
@@ -19,7 +19,7 @@ export const WorksTitle = styled.h1`
 `
 
 export const ButtonsWrapper = styled.div`
-  padding: .75rem 0 1.5rem;
+  padding: 0.75rem 0 1.5rem;
 `
 
 export const FilterButton = styled.button`
@@ -28,14 +28,14 @@ export const FilterButton = styled.button`
   padding: 0;
   margin: 0;
   appearance: none;
-  font-size: .9rem;
+  font-size: 0.9rem;
   font-family: ${fonts.mono};
   cursor: pointer;
 
   &:not(:last-child)::after {
-    content: '-';
+    content: "-";
     display: inline-block;
-    margin: 0 .5rem;
+    margin: 0 0.5rem;
     color: ${colors.gray500};
   }
 
@@ -43,23 +43,24 @@ export const FilterButton = styled.button`
     outline: 0;
   }
 
-  ${props => props.active 
-    ? css`
-      color: ${colors.yellow500};
-    `
-    : css`
-      color: ${colors.gray500};
-    `}
+  ${props =>
+    props.active
+      ? css`
+          color: ${colors.yellow500};
+        `
+      : css`
+          color: ${colors.gray500};
+        `}
 `
 
 export const NDAWrapper = styled.footer`
   padding-top: 4rem;
   text-align: center;
-  
+
   h2 {
     font-size: 1.1rem;
     color: #000;
-    margin-bottom: .75rem;
+    margin-bottom: 0.75rem;
     line-height: 1.4em;
   }
 `
@@ -71,11 +72,11 @@ export const StyledDivider = styled(Divider)`
 export const StyledEmailMe = styled(EmailMe)`
   color: ${colors.yellow500};
   font-family: ${fonts.mono};
-  font-size: .9rem;
+  font-size: 0.9rem;
   border-bottom: 1px dotted ${colors.yellow500};
-  padding: 0 0 .1rem;
+  padding: 0 0 0.1rem;
   display: inline-block;
-  
+
   &:hover {
     color: ${colors.yellow500};
   }

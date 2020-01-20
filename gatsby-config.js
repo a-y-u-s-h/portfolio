@@ -1,35 +1,35 @@
 module.exports = {
-  pathPrefix: '/portfolio',
+  pathPrefix: "/portfolio",
   siteMetadata: {
-    siteUrl: 'https://ayushsharma.net/'
+    siteUrl: "https://ayushsharma.net/"
   },
   plugins: [
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
-        name: 'data',
-        path: './src/data/'
+        name: "data",
+        path: "./src/data/"
       }
     },
     {
-    resolve: 'gatsby-plugin-web-font-loader',
+      resolve: "gatsby-plugin-web-font-loader",
       options: {
         google: {
-          families: ['Roboto:300,400', 'Roboto Mono']
+          families: ["Roboto:300,400", "Roboto Mono"]
         }
       }
     },
     {
-      resolve: 'gatsby-plugin-google-analytics',
+      resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: 'UA-113472346-1',
-        anonymize: true,
+        trackingId: "UA-99625338-1",
+        anonymize: true
       }
     },
     {
-      resolve: 'gatsby-plugin-favicon',
+      resolve: "gatsby-plugin-favicon",
       options: {
-        logo: './static/images/icons/logo.svg',
+        logo: "./static/images/icons/logo.svg",
         injectHTML: true,
         icons: {
           android: false,
@@ -45,27 +45,26 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-manifest',
+      resolve: "gatsby-plugin-manifest",
       options: {
-        name: 'Raincode',
-        short_name: 'RC',
-        start_url: '/',
-        background_color: '#1e2732',
-        theme_color: '#1e2732',
-        display: 'minimal-ui',
+        name: "Ayush Sharma",
+        short_name: "AS",
+        start_url: "/",
+        background_color: "#1e2732",
+        theme_color: "#1e2732",
+        display: "minimal-ui",
         icons: [
           {
-            src: '/static/icons/logo.svg',
-            type: 'image/svg'
+            src: "/static/icons/logo.svg",
+            type: "image/svg"
           }
         ]
       }
     },
-    //'gatsby-plugin-react-next',
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sitemap',
-    'gatsby-transformer-json',
-    'gatsby-plugin-react-svg',
-    'gatsby-plugin-styled-components'
-  ],
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sitemap",
+    "gatsby-transformer-json",
+    "gatsby-plugin-react-svg",
+    "gatsby-plugin-styled-components"
+  ]
 }

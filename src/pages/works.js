@@ -11,7 +11,7 @@ const worksQuery = graphql`
           title,
           category,
           collaborators,
-          client,
+          description,
           year,
           url,
           featured,

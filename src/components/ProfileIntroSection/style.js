@@ -1,7 +1,7 @@
-import styled from 'styled-components'
-import WeekDistance from '../WeekDistance'
-import Image from '../Image'
-import { colors, media } from '../../style/constants'
+import styled from "styled-components"
+import WeekDistance from "../WeekDistance"
+import Image from "../Image"
+import { colors, media } from "../../style/constants"
 
 export const Wrapper = styled.section`
   display: grid;
@@ -22,7 +22,7 @@ export const StyledImage = styled(Image)`
   overflow: hidden;
 
   &::before {
-    content: '';
+    content: "";
     padding-top: 150%;
     display: block;
     ${media.sm`
@@ -40,7 +40,7 @@ export const StyledImage = styled(Image)`
     bottom: -100%;
     left: -100%;
     mix-blend-mode: darken;
-    opacity: .8;
+    opacity: 0.8;
     display: block;
     object-fit: cover;
     ${media.sm`
@@ -64,7 +64,7 @@ export const StyledWeekDistance = styled(WeekDistance)`
 `
 
 export const InfoWrapper = styled.header`
-  grid-row: 2 / 4;
+  grid-row: 2 / 6;
   grid-column: 1 / 6;
   z-index: 3;
   ${media.md`
@@ -89,9 +89,9 @@ export const Content = styled.main`
   }
 
   a {
-    color: #111;
+    color: ${colors.blue900};
     border-bottom: 1px dotted ${colors.gray500};
-    
+
     &:hover {
       border-bottom-color: ${colors.yellow500};
     }

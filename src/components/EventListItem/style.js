@@ -1,5 +1,5 @@
-import styled from 'styled-components'
-import { colors } from '../../style/constants'
+import styled from "styled-components"
+import { colors } from "../../style/constants"
 
 export const Position = styled.span`
   border-bottom: 1px dotted ${colors.gray700};
@@ -10,12 +10,20 @@ export const Wrapper = styled.div`
   overflow: hidden;
 
   div {
-    transition: transform .3s cubic-bezier(.45, 0, .1, 1);
+    transition: transform 0.3s cubic-bezier(0.45, 0, 0.1, 1);
     will-change: transform;
   }
 
   .position {
     transform: translateY(0);
+    color: lighten(${colors.gray500}, 10%);
+  }
+
+  .company {
+    color: ${colors.gray500};
+    background: ${colors.darkblue};
+    float: right;
+    padding: 0 0.3rem;
   }
 
   .year {
@@ -25,8 +33,8 @@ export const Wrapper = styled.div`
     left: 0;
     bottom: 0;
     transform: translateY(100%);
-    color: #FFF;
-    background: #000;
+    color: ${colors.blue900};
+    background: ${colors.darkblue};
     width: fit-content;
     padding: 0 1rem;
   }

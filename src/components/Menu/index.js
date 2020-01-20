@@ -6,13 +6,13 @@ const Menu = () =>
   <Wrapper>
     <Nav>
       <NavItem>
-        <a href="https://twitter.com/raincoders" rel="noopener noreferrer" target="_blank">Twitter</a>
+        <a href="https://twitter.com/taggosaurus" rel="noopener noreferrer" target="_blank">Twitter</a>
       </NavItem>
       <NavItem>
-        <a href="https://github.com/raincodeorg" rel="noopener noreferrer" target="_blank">Github</a>
+        <a href="https://github.com/a-y-u-s-h" rel="noopener noreferrer" target="_blank">Github</a>
       </NavItem>
       <NavItem>
-        <a href="https://gitlab.com/raincodeorg" rel="noopener noreferrer" target="_blank">Gitlab</a>
+        <a href="https://gitlab.com/a-y-u-s-h" rel="noopener noreferrer" target="_blank">Gitlab</a>
       </NavItem>
     </Nav>
     <Nav>

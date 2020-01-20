@@ -1,12 +1,12 @@
-import styled from 'styled-components'
-import { media, getOuterSpace } from '../../style/constants'
+import styled from "styled-components"
+import { colors, media, getOuterSpace } from "../../style/constants"
 
 export const Wrapper = styled.div`
   position: fixed;
   top: 0;
   left: 0;
   max-width: 18rem;
-  ${getOuterSpace('padding')}
+  ${getOuterSpace("padding")}
   ${media.md`
     position: static;
     padding: 0;
@@ -16,7 +16,8 @@ export const Wrapper = styled.div`
     position: relative;
   }
 
-  a, svg {
+  a,
+  svg {
     display: block;
   }
 
@@ -32,24 +33,30 @@ export const Wrapper = styled.div`
     height: auto;
   }
 
+  a:hover {
+    svg {
+      color: ${colors.yellow500}
+    }
+  }
+
   .circle {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(0);
-    background: rgba(255, 255, 255, .05);
+    background: rgba(255, 255, 255, 0.05);
     height: 100%;
     width: 100%;
     border-radius: 100%;
     pointer-events: none;
     opacity: 1;
     will-change: transform;
-    color: #303030;
+    color: ${colors.gray500};
   }
 
   a:hover + .circle {
     opacity: 0;
     transform: translate(-50%, -50%) scale(7.5);
-    transition: transform 1s cubic-bezier(.45, 0, .1, 1), opacity .8s ease;
+    transition: transform 1s cubic-bezier(0.45, 0, 0.1, 1), opacity 0.8s ease;
   }
 `

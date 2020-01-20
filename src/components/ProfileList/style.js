@@ -1,14 +1,14 @@
-import styled from 'styled-components'
-import { colors } from '../../style/constants'
+import styled from "styled-components"
+import { colors } from "../../style/constants"
 
 export const ListTitle = styled.h2`
-  color: #000;
+  color: ${colors.gray500};
   font-size: 1.1rem;
   font-weight: 400;
   margin-bottom: 1rem;
 
   &::after {
-    content: '';
+    content: "";
     width: 1rem;
     height: 1px;
     background: ${colors.yellow500};

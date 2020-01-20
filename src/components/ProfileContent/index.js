@@ -100,7 +100,7 @@ export default ({ data }) => {
             />}
           {clients.edges.length > 0 && 
             <ClientsList 
-              title='Companies we have worked with'
+              title='Companies I have worked with'
               list={() => clients.edges.map(({ client }, i) => (
                 <ProfileListItem 
                   key={i}

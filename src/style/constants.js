@@ -1,42 +1,43 @@
-import { css } from 'styled-components'
+import { css } from "styled-components"
 
 export const colors = {
-  blue900: '#FEFEFE',
-  blue800: '#1e2733',
-  gray500: '#313131',
-  gray700: '#656a73',
-  yellow500: '#541010',
-  yellow700: '#6b6349'
-
-  // blue900: '#FFFFFF',
+  // blue900: '#FEFEFE',
   // blue800: '#1e2733',
-  // gray500: '#94989E',
+  // gray500: '#313131',
   // gray700: '#656a73',
-  // yellow500: '#EBC86E',
+  // yellow500: '#541010',
   // yellow700: '#6b6349'
+
+  blue900: "#FFFFFF",
+  blue800: "#1e2733",
+  darkblue: "#121821",
+  gray500: "#94989E",
+  gray700: "#656a73",
+  yellow500: "#FBC843",
+  yellow700: "#6b6349"
 }
 
 export const fonts = {
-  sansSerif: '\'Roboto\', stack-sans, sans-serif',
-  mono: '\'Roboto Mono\', stack-mono, monospace'
+  sansSerif: "'Roboto', stack-sans, sans-serif",
+  mono: "'Roboto Mono', stack-mono, monospace"
 }
 
 export const spaces = {
-  p500: '5rem',
-  p400: '4rem',
-  p300: '3rem',
-  p200: '2rem',
-  p100: '1rem',
-  p50: '.5rem',
-  p25: '.25rem'
+  p500: "5rem",
+  p400: "4rem",
+  p300: "3rem",
+  p200: "2rem",
+  p100: "1rem",
+  p50: ".5rem",
+  p25: ".25rem"
 }
 
 export const mq = {
-  xs: '22em',
-  sm: '40em',
-  md: '54em',
-  lg: '78em',
-  xl: '125em'
+  xs: "22em",
+  sm: "40em",
+  md: "54em",
+  lg: "78em",
+  xl: "125em"
 }
 
 export const media = {
@@ -72,7 +73,7 @@ export const media = {
   `
 }
 
-const rule = (d, v) => `${d}: ${v};` 
+const rule = (d, v) => `${d}: ${v};`
 
 export const getOuterSpace = p =>
   css`

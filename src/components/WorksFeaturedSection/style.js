@@ -1,22 +1,22 @@
-import styled from 'styled-components'
-import { Carousel } from 'react-responsive-carousel'
-import Image from '../Image'
-import { media } from '../../style/constants'
+import styled from "styled-components"
+import { Carousel } from "react-responsive-carousel"
+import Image from "../Image"
+import { media } from "../../style/constants"
 
 export const WorkFeatured = styled.article`
   border-radius: 2px;
   overflow: hidden;
   position: relative;
-  box-shadow: 0 15px 30px -5px rgba(0, 0, 0, .35);
+  box-shadow: 0 15px 30px -5px rgba(0, 0, 0, 0.35);
   transform: translateY(0);
-  transition: all .3s cubic-bezier(.45, 0, .1, 1);
+  transition: all 0.3s cubic-bezier(0.45, 0, 0.1, 1);
   transform-style: preserve-3d;
   backface-visibility: hidden;
   will-change: box-shadow, transform;
 
   &:hover {
-    transform: translateY(-.5rem);
-    box-shadow: 0 20px 30px -10px rgba(0, 0, 0, .35);
+    transform: translateY(-0.5rem);
+    box-shadow: 0 20px 30px -10px rgba(0, 0, 0, 0.35);
   }
 
   a {
@@ -45,9 +45,9 @@ export const StyledImage = styled(Image)`
   display: block;
   position: relative;
   background: #242e3a;
-  
+
   &::before {
-    content: '';
+    content: "";
     padding-top: 74%;
     display: block;
     ${media.sm`
@@ -78,10 +78,10 @@ export const Wrapper = styled.section`
 `
 
 export const StyledCarousel = styled(Carousel)`
-  box-shadow: 0 10px 30px rgba(19, 27, 37, .4);
+  box-shadow: 0 10px 30px rgba(19, 27, 37, 0.4);
   overflow: hidden;
   border-radius: 2px;
-  
+
   .carousel {
     .slide {
       background: transparent;
@@ -89,12 +89,12 @@ export const StyledCarousel = styled(Carousel)`
 
     .control-dots {
       margin: 0 0 1rem;
-      
+
       .dot {
         box-shadow: none;
         height: 1px;
         width: 1.5rem;
-        margin: 0 .25rem;
+        margin: 0 0.25rem;
         border-radius: 0;
       }
     }

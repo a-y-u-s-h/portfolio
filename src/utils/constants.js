@@ -5,15 +5,15 @@ export const META = {
     image: '/images/logo.svg',
   },
   index: {
-    title: 'Raincode',
-    description: 'A team of uniquely talented developers and designers spread all over the world.'
+    title: 'Ayush | Index',
+    description: 'One man army developer.'
   },
   profile: {
-    title: 'Raincode | Profile',
+    title: 'Ayush | Profile',
     description: ''
   },
   works: {
-    title: 'Raincode | Works',
-    description: 'A selection of the work carried out over 4+ years of work. Among which: Websites, Web applications, Web Scrapers and more.'
+    title: 'Ayush | Works',
+    description: 'A selection of the work carried out over 4+ years of work. Including: Websites, Web applications, Web Scrapers and more.'
   }
 }

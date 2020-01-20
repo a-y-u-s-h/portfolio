@@ -1,5 +1,5 @@
-import styled, { css } from 'styled-components'
-import { fonts, colors, media } from '../../style/constants'
+import styled, { css } from "styled-components"
+import { fonts, colors, media } from "../../style/constants"
 
 export const Wrapper = styled.article`
   padding: 1.3rem 0;
@@ -12,7 +12,7 @@ export const Wrapper = styled.article`
 
   > header {
     transform: translateX(0);
-    transition: transform .5s cubic-bezier(.5, .1, 0, 1.15);
+    transition: transform 0.5s cubic-bezier(0.5, 0.1, 0, 1.15);
     backface-visibility: hidden;
     will-change: transform;
   }
@@ -31,40 +31,42 @@ export const Wrapper = styled.article`
     line-height: 0;
   }
 
-  ${props => props.hasLink && css`
-    ${media.hover`
+  ${props =>
+    props.hasLink &&
+    css`
+      ${media.hover`
       &:hover {
         > header {
           transform: translateX(-.75rem);
         }
       }
     `}
-  `}
+    `}
 `
 
 export const WorkTitle = styled.h3`
   font-size: 1.1rem;
-  color: #000;
+  color: ${colors.gray700};
   font-weight: 400;
 `
 
 export const WorkInfos = styled.div`
-  margin-top: .5rem;
+  margin-top: 0.5rem;
   font-family: ${fonts.mono};
-  font-size: .9rem;
+  font-size: 0.9rem;
   color: ${colors.gray500};
 `
 
 export const WorkYear = styled.span`
-  color: #000;
+  color: ${colors.gray700};
 
   &::before {
-    content: '';
+    content: "";
     display: inline-block;
     vertical-align: middle;
     height: 1px;
     width: 1rem;
     background: ${colors.yellow500};
-    margin-right: .5rem;
+    margin-right: 0.5rem;
   }
 `

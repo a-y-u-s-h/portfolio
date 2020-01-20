@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('/mnt/Code/work/personal/websites/portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-113472346-1","anonymize":true},
+      plugin: require('/mnt/Code/work/personal/websites/a-y-u-s-h.github.io/portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-99625338-1","anonymize":true},
     },{
-      plugin: require('/mnt/Code/work/personal/websites/portfolio/node_modules/gatsby-plugin-favicon/gatsby-ssr'),
+      plugin: require('/mnt/Code/work/personal/websites/a-y-u-s-h.github.io/portfolio/node_modules/gatsby-plugin-favicon/gatsby-ssr'),
       options: {"plugins":[],"logo":"./static/images/icons/logo.svg","injectHTML":true,"icons":{"android":false,"appleIcon":true,"appleStartup":false,"coast":false,"favicons":true,"firefox":false,"twitter":true,"yandex":false,"windows":false}},
     },{
-      plugin: require('/mnt/Code/work/personal/websites/portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Raincode","short_name":"RC","start_url":"/","background_color":"#1e2732","theme_color":"#1e2732","display":"minimal-ui","icons":[{"src":"/static/icons/logo.svg","type":"image/svg"}]},
+      plugin: require('/mnt/Code/work/personal/websites/a-y-u-s-h.github.io/portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"Ayush Sharma","short_name":"AS","start_url":"/","background_color":"#1e2732","theme_color":"#1e2732","display":"minimal-ui","icons":[{"src":"/static/icons/logo.svg","type":"image/svg"}]},
     },{
-      plugin: require('/mnt/Code/work/personal/websites/portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/mnt/Code/work/personal/websites/a-y-u-s-h.github.io/portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/mnt/Code/work/personal/websites/portfolio/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/mnt/Code/work/personal/websites/a-y-u-s-h.github.io/portfolio/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/mnt/Code/work/personal/websites/portfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/mnt/Code/work/personal/websites/a-y-u-s-h.github.io/portfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

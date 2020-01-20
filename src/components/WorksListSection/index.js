@@ -1,29 +1,48 @@
-import React from 'react'
-import WorksListItem from '../WorksListItem'
-import { Wrapper, WorksTitle, ButtonsWrapper, FilterButton, NDAWrapper, StyledDivider, StyledEmailMe } from './style'
+import React from "react"
+import WorksListItem from "../WorksListItem"
+import {
+  Wrapper,
+  WorksTitle,
+  ButtonsWrapper,
+  FilterButton,
+  NDAWrapper,
+  StyledDivider,
+  StyledEmailMe
+} from "./style"
 
-const WorksListSection = ({ 
-  works, 
-  category, 
-  setCategory 
-}) => 
+const WorksListSection = ({ works, category, setCategory }) => (
   <Wrapper>
     <header>
       <WorksTitle>Other works</WorksTitle>
       <ButtonsWrapper>
-        <FilterButton active={category === 'design'} onClick={() => setCategory('design')}>design</FilterButton>
-        <FilterButton active={category === 'code'} onClick={() => setCategory('code')}>code</FilterButton>
-        {category && <FilterButton onClick={() => setCategory(null)}>all</FilterButton>}
+        <FilterButton
+          active={category === "design"}
+          onClick={() => setCategory("design")}
+        >
+          design
+        </FilterButton>
+        <FilterButton
+          active={category === "code"}
+          onClick={() => setCategory("code")}
+        >
+          code
+        </FilterButton>
+        {category && (
+          <FilterButton onClick={() => setCategory(null)}>all</FilterButton>
+        )}
       </ButtonsWrapper>
     </header>
     <main>
-      {works.map(({ work }, i) => <WorksListItem key={i} work={work} />)}
+      {works.map(({ work }, i) => (
+        <WorksListItem key={i} work={work} />
+      ))}
     </main>
     <NDAWrapper>
       <StyledDivider height={6} width={43} />
       <h2>Want to collaborate with us?</h2>
-      <StyledEmailMe text='Drop us an email' />
+      <StyledEmailMe text="Drop us an email" />
     </NDAWrapper>
   </Wrapper>
+)
 
 export default WorksListSection

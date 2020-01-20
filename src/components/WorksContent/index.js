@@ -1,10 +1,10 @@
-import React, { Component } from 'react'
-import idx from 'idx'
-import { ContentWrapper } from '../../style/shared'
-import WorksListSection from '../WorksListSection'
-import WorksFeaturedSection from '../WorksFeaturedSection'
-import Head from '../Head'
-import { META } from '../../utils/constants'
+import React, { Component } from "react"
+import idx from "idx"
+import { ContentWrapper } from "../../style/shared"
+import WorksListSection from "../WorksListSection"
+import WorksFeaturedSection from "../WorksFeaturedSection"
+import Head from "../Head"
+import { META } from "../../utils/constants"
 
 export default class extends Component {
   constructor() {
@@ -19,21 +19,23 @@ export default class extends Component {
 
   getData() {
     const { data } = this.props
-    return idx(data, _ => _.works.edges) 
+    return idx(data, _ => _.works.edges)
   }
 
-  getWorks() {  
+  getWorks() {
     const { category } = this.state
     const works = this.getData()
-    
-    return works && 
+
+    return (
+      works &&
       works.filter(({ work }) =>
-        category 
+        category
           ? !work.featured && work.category.includes(category)
           : !work.featured
       )
+    )
   }
-  
+
   getFeaturedWorks() {
     const works = this.getData()
     return works && works.filter(({ work }) => work.featured)
@@ -44,17 +46,14 @@ export default class extends Component {
 
     return (
       <ContentWrapper>
-        <Head 
-          {...META.works}
-          image={META.common.image}
-        />
+        <Head {...META.works} image={META.common.image} />
         <WorksFeaturedSection works={this.getFeaturedWorks()} />
-        <WorksListSection 
-          works={this.getWorks()} 
+        <WorksListSection
+          works={this.getWorks()}
           category={category}
-          setCategory={this.setCategory} 
+          setCategory={this.setCategory}
         />
-      </ContentWrapper> 
+      </ContentWrapper>
     )
   }
 }

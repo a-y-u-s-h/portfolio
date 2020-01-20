@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 // import AniLink from "gatsby-plugin-transition-link/AniLink"
-import styled, { css } from 'styled-components'
-import { colors, fonts, media, getOuterSpace } from '../../style/constants'
+import styled, { css } from "styled-components"
+import { colors, fonts, media, getOuterSpace } from "../../style/constants"
 
 export const Wrapper = styled.nav`
   position: fixed;
@@ -13,27 +13,28 @@ export const Wrapper = styled.nav`
   align-items: flex-end;
   justify-content: space-between;
   pointer-events: none;
-  ${getOuterSpace('padding')};
-  
+  ${getOuterSpace("padding")};
+
   ul:last-child li {
     text-align: right;
-    
+
     a {
-      transition: color .4s ease;
+      transition: color 0.4s ease;
       will-change: color;
       position: relative;
-      
+
       &::before {
         position: absolute;
         left: -1.1rem;
         top: 50%;
         background: ${colors.yellow500};
         border-radius: 100%;
-        content: '';
+        content: "";
         display: block;
-        height: .3rem;
-        width: .3rem;
-        transition: transform .3s cubic-bezier(.45, 0, .1, 1), opacity .1s ease;
+        height: 0.3rem;
+        width: 0.3rem;
+        transition: transform 0.3s cubic-bezier(0.45, 0, 0.1, 1),
+          opacity 0.1s ease;
         will-change: transform, opacity;
       }
 
@@ -43,8 +44,8 @@ export const Wrapper = styled.nav`
       }
 
       &:hover {
-        color: #000;
-        
+        color: ${colors.yellow500};
+
         &::before {
           transform: translate(0, -50%);
           opacity: 1;
@@ -52,7 +53,7 @@ export const Wrapper = styled.nav`
       }
     }
   }
-  
+
   ${media.md`
     position: static;
     padding: 0;
@@ -69,41 +70,42 @@ export const Nav = styled.ul`
 
 export const NavItem = styled.li`
   list-style: none;
-  padding: .5rem 0;
+  padding: 0.5rem 0;
   line-height: 1em;
-  
+
   &:last-child {
     padding-bottom: 0;
   }
 
   a {
-    font-size: .9rem;
+    font-size: 0.9rem;
     padding: 0.3rem;
     font-family: ${fonts.mono};
     pointer-events: all;
-    transition: color .1s ease;
+    transition: color 0.1s ease;
     line-height: 1em;
-    ${props => props.highlight 
-      ? css`
-        color: ${colors.yellow500};
-        
-        &:hover::before {
-          display: none !important;
-        }
-      `
-      : css`
-        color: ${colors.gray500};
-      `}
+    ${props =>
+      props.highlight
+        ? css`
+            color: ${colors.yellow500};
+
+            &:hover::before {
+              display: none !important;
+            }
+          `
+        : css`
+            color: ${colors.gray500};
+          `}
   }
 `
 
 export const NavLink = styled(Link).attrs({
-  activeClassName: 'active'
+  activeClassName: "active"
 })`
   &.active {
-    color: #FFF;
-    background: #000;
-    
+    color: #fff;
+    background: ${colors.darkblue};
+
     &::before {
       transform: translate(0, -50%);
       opacity: 1;

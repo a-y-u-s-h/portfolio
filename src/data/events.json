@@ -1,7 +1,37 @@
 [
   {
+    "year": "2020 January",
+    "position": "Founder",
+    "company": "hindustan.fyi"
+  },
+  {
+    "year": "2019 July",
+    "position": "Founder",
+    "company": "raincode.org"
+  },
+  {
+    "year": "2019 March",
+    "position": "Founder",
+    "company": "scrypters.com"
+  },
+  {
+    "year": "2019 Feb",
+    "position": "CTO",
+    "company": "ucadd.in"
+  },
+  {
+    "year": "2019 July",
+    "position": "Python Engineer",
+    "company": "savaari.com"
+  },
+  {
+    "year": "2019 Feb",
+    "position": "Principal Engineer",
+    "company": "wishto.be"
+  },
+  {
     "year": "2019 May",
-    "position": "Established",
+    "position": "Graduated from BITS Pilani, India",
     "company": ""
   }
 ]

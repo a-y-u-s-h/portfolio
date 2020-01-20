@@ -8,7 +8,7 @@ const Footer = () =>
       Made (with 💜) in {getCurrentYear()}
     </Item>
     <Item position='right'>
-      <span>Quality > Quantity</span>
+      <span>Quantity * leads to * Quality</span>
     </Item>
   </Wrapper>
 

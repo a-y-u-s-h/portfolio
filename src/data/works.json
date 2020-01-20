@@ -2,65 +2,1425 @@
   {
     "title": "Inconvenience is Regretted",
     "category": ["design", "code"],
-    "client": "Public",
+    "url": "/",
+    "description": "Public",
     "year": "2019",
     "featured": true,
-    "url": "/",
     "image": {
       "src": "/images/works/inconvenience is regretted/inconvenience is regretted.png",
       "sources": [
         {
           "media": "max-width: 40rem",
           "srcset": [
-            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
-            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
-            "/images/works/inconvenience is regretted/inconvenience is regretted.png"
+            "/images/works/games/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/games/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/games/inconvenience is regretted/inconvenience is regretted.png"
           ]
         },
         {
           "srcset": [
-            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
-            "/images/works/inconvenience is regretted/inconvenience is regretted.png",
-            "/images/works/inconvenience is regretted/inconvenience is regretted.png"
+            "/images/works/games/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/games/inconvenience is regretted/inconvenience is regretted.png",
+            "/images/works/games/inconvenience is regretted/inconvenience is regretted.png"
           ]
         }
       ]
     }
   },
+
   {
-    "title": "HellCry",
-    "category": ["design", "code"],
-    "client": "Public",
-    "year": "2019",
-    "featured": true,
-    "url": "/",
-    "image": {
-      "src": "/images/works/hellcry/hellcry.png",
-      "sources": [
-        {
-          "media": "max-width: 40rem",
-          "srcset": [
-            "/images/works/hellcry/hellcry.png",
-            "/images/works/hellcry/hellcry.png",
-            "/images/works/hellcry/hellcry.png"
-          ]
-        },
-        {
-          "srcset": [
-            "/images/works/hellcry/hellcry.png",
-            "/images/works/hellcry/hellcry.png",
-            "/images/works/hellcry/hellcry.png"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "title": "Growser",
+    "title": "Illusion with Circles #1",
     "category": ["code"],
-    "client": "@taggosaurus",
+    "url": "https://ayushsharma.net/experiments/1",
+    "description": "",
     "collaborators": [""],
-    "year": "2019",
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "WaveOps",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/2",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Warp Drive",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/3",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Bouncing Balls",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/4",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Lissajous Figure Creator",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/5",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal Implementation #1 : Tree",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/6",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Orbital Motion : 2D implementation",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/7",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Graph Paper - Customizable",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/8",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Illusion of 3D with Squares",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/9",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Particle : Cloud-ish Effect",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/10",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Rotating 3D Cube (Primitive)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/11",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal Implementation #2 : Squares over Squares",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/12",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Analog Clock Implementation #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/13",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Sound Visualizer Implementation #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/14",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Vector Field : 2D",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/15",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Animation inspired from Crop Circle pattern",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/16",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Gaussian Distribution of Points",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/17",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Data Viz #1 : Pi upto 500 decimal places.",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/18",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Spiral Pattern Implementation #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/19",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Slightly Useful Typewriter",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/20",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal Implementation #3 : Circles",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/21",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Dussehra 2017 - 2D Fireworks.",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/22",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Spooky Eyes",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/23",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Mouse Torch",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/24",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "3D Oscillations #1 - Cubes",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/25",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Packing : Circles",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/26",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Illusion with Circles #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/27",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "10 PRINT Pattern Implementation #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/28",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal Implementation #4 : Arcs",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/29",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Deception with Colours #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/30",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Yin Yang",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/31",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "2 dimensional iterative animation #1 : Maze",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/32",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Sound Visualizer #2 : Bars",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/33",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Pixel Data Manipulation #1 : Dance!",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/34",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Cube Layers.",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/35",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal Implementation #5 : Cubes",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/36",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "2D Shape Customizer",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/37",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal Implementation #6 : Suits Animation",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/38",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Algorithmic Botany : Tree v1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/39",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Sound Propagation : Compression & Rarefaction Animation",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/40",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Happy Diwali!",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/41",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Mirrored Drawing Pad",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/42",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "The Matrix Terminal",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/43",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Illusion with Circles #3",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/44",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Illusion with Squares #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/45",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Illusion with Circles #4",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/46",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Illusion with Polygons : Hexagon #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/47",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Illusion with Circles #5",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/48",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Rotating Rectangular Brush",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/49",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "\u00bd Century",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/50",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/51",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/52",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Noisy Plane",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/53",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "EMT - Ring & Point Charge System",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/54",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #3",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/55",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Deception with Colours #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/56",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Neural Network Viz #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/57",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Neural Network Viz #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/58",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Seizure Inducing Illusion",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/59",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal #7 : 3D Vicsek",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/60",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "SHM : Spring, Bob & Hinge System",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/61",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Mathematical Flowerinator",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/62",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Oscillating Sliders",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/63",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Algorithmic Botany : Phyllotaxis",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/64",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "3D Sound Visualizer",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/65",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "2 Stars & 200 Particles",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/66",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Dipole & Magnetic Particles",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/67",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Young\u2019s Double Slit Experiment",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/68",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #4",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/69",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Fractal Spirograph v1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/70",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Algorithmic Botany : Trees #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/71",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "\u2018Trend\u2019 Line Calculator",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/72",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Sound Viz - Mickey Mouse - Hot Dog",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/73",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Menger Sponge Fractal",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/74",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Schematic Diagram of a DC Machine",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/75",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Stars and Particles : v2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/76",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "2D Rain Simulation",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/77",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Metaballs / Isosurfaces in 2D canvas",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/78",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Iterative Sketching #1 : Sun & Moon",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/79",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Mountain Landscape",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/80",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #5",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/81",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Geometry Viz : Area of \u0394",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/82",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Particle Beanstalk",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/83",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "A Globe",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/84",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Mouse Seekers #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/85",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Metaballs / Isosurfaces v2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/86",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Crazy Cells",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/87",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Pixel Data Manipulation #2 : Ascii Art",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/88",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #6 : Hex Nuts",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/89",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Iterative Sketching #2 : Furry Smoke",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/90",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Iterative Sketching #3 : Stain",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/91",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Arbitrary Sketch #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/92",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Arbitrary Sketch #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/93",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Squiggly Waves of Sun",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/94",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Mouse Seekers #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/95",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Iterative Sketching #4 : Fire Pit",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/96",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Shape Morphing #1 : \u25b2 to \u2b24",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/97",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Shape Morphing : + Controls",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/98",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Artificial Life : Flocking Agents #1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/99",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Artificial Life : Path Following Bots",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/100",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Arbitrary Sketch #3 : Hypnotic Iris",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/101",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Collision Detection : Particles",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/102",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Koch Snowflake",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/103",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Extracting Simpler Oscillations",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/104",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Psychedelic Noisy Vectors",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/105",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "JS Reserved Keywords (2017)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/106",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Maze Generation #1 : RB",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/107",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Conway\u2019s Game of Life v1",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/108",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Metaballs / Isosurfaces v3",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/109",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #7 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/110",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Iterative Sketching #5 : Solar Flare",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/111",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "DNA : Double Helix (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/112",
+    "description": "",
+    "collaborators": [""],
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #8 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/113",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Artificial Life : Flocking Agents #2",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/114",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Artificial Life : Flocking Agents #3",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/115",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #9 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/116",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #10 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/117",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #11 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/118",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Electromagnetic Wave Propagation",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/119",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #12 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/120",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #13 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/121",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #14 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/122",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #15 (3D)",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/123",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Color Spray!",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/124",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Color Explosion!",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/125",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Abstract Geometrical Art #16",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/126",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Immortal Snake Adventures",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/127",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Algorithm Visualizaiton : TSP - I",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/128",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Ripple",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/129",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Rainbow Rain",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/130",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "7 Segment Display",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/131",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Stack Overflow 3D",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/132",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Valentine\u2019s Day",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/133",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Spheres on a Sphere",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/134",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Pixel Tunnel",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/135",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Algoviz : A* Search",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/136",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Jelly Fish Prototype",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/137",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Celebratory Explosions",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/138",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Life Spreading Brush",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/139",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Artificial Life : Cockroaches",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/140",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Evolutionary Rockets",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/141",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Connected Spring Mass System",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/142",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Video Pixel Manipulation",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/143",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Football Field",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/144",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Video Pixel Manipulation 3D",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/145",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Unstable Colorful Spirits",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/146",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Squiggly Life*",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/147",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "3D Oscillations : Spheres on Sphere",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/148",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Black Hole Activity",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/149",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Geostats Dataviz: Wind",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/150",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "3D Oscillations : Rectangular Sheets",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/151",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Poisson Disc Sampling Animated",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/152",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Radially Shrinking Superellipses",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/153",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Animated Cochleiod",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/154",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
+    "featured": false
+  },
+  {
+    "title": "Fluid Simulation",
+    "category": ["code"],
+    "url": "https://ayushsharma.net/experiments/160",
+    "description": "",
+    "collaborators": [""],
+    "year": "2017",
     "featured": false
   }
 ]
