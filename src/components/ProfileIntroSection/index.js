@@ -1,15 +1,16 @@
-import React from 'react'
-import Intro from '../Intro'
-import { Wrapper, InfoWrapper, Content, StyledImage } from './style'
-import { Loader } from '../../style/shared'
+import React from "react"
+import Intro from "../Intro"
+import { Wrapper, InfoWrapper, Content, StyledImage } from "./style"
+import { Loader } from "../../style/shared"
+import { NDAWrapper, StyledDivider, StyledEmailMe } from "./style"
 
-const ProfileIntroSection = ({ content }) => 
+const ProfileIntroSection = ({ content }) => (
   <Wrapper>
     <InfoWrapper>
       <Intro fixed={false} />
       <Content>{content()}</Content>
     </InfoWrapper>
-{/*
+    {/*
   ====================================
         <StyledImage 
       src="/images/profile/profile.jpg"
@@ -33,5 +34,6 @@ const ProfileIntroSection = ({ content }) =>
   ====================================
 */}
   </Wrapper>
+)
 
 export default ProfileIntroSection

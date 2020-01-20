@@ -10,39 +10,48 @@ import {
   StyledEmailMe
 } from "./style"
 
-const WorksListSection = ({ works, category, setCategory }) => (
-  <Wrapper>
-    <header>
-      <WorksTitle>Other works</WorksTitle>
-      <ButtonsWrapper>
-        <FilterButton
-          active={category === "design"}
-          onClick={() => setCategory("design")}
-        >
-          design
-        </FilterButton>
-        <FilterButton
-          active={category === "code"}
-          onClick={() => setCategory("code")}
-        >
-          code
-        </FilterButton>
-        {category && (
-          <FilterButton onClick={() => setCategory(null)}>all</FilterButton>
-        )}
-      </ButtonsWrapper>
-    </header>
-    <main>
-      {works.map(({ work }, i) => (
-        <WorksListItem key={i} work={work} />
-      ))}
-    </main>
-    <NDAWrapper>
-      <StyledDivider height={6} width={43} />
-      <h2>Want to collaborate with us?</h2>
-      <StyledEmailMe text="Drop us an email" />
-    </NDAWrapper>
-  </Wrapper>
-)
+const WorksListSection = ({ works, category, setCategory }) => {
+  let categories = Array.from(
+    new Set(
+      works
+        .map(x => x.work)
+        .map(x => x.category)
+        .flat()
+    )
+  )
+  categories = Array.from(new Set(categories))
+  return (
+    <Wrapper>
+      <header>
+        <WorksTitle>Other works</WorksTitle>
+        <ButtonsWrapper>
+          {categories.map(c => {
+            return (
+              <FilterButton
+                active={category === c}
+                onClick={() => setCategory(c)}
+              >
+                {c}
+              </FilterButton>
+            )
+          })}
+          {category && (
+            <FilterButton onClick={() => setCategory(null)}>all</FilterButton>
+          )}
+        </ButtonsWrapper>
+      </header>
+      <main>
+        {works.map(({ work }, i) => (
+          <WorksListItem key={i} work={work} />
+        ))}
+      </main>
+      <NDAWrapper>
+        <StyledDivider height={6} width={43} />
+        <h2>Want to collaborate with me?</h2>
+        <StyledEmailMe text="Drop me an email" />
+      </NDAWrapper>
+    </Wrapper>
+  )
+}
 
 export default WorksListSection

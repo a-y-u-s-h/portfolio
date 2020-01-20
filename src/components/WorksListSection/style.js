@@ -25,19 +25,14 @@ export const ButtonsWrapper = styled.div`
 export const FilterButton = styled.button`
   border: 0;
   background: 0;
-  padding: 0;
-  margin: 0;
   appearance: none;
   font-size: 0.9rem;
   font-family: ${fonts.mono};
   cursor: pointer;
 
-  &:not(:last-child)::after {
-    content: "-";
-    display: inline-block;
-    margin: 0 0.5rem;
-    color: ${colors.gray500};
-  }
+  padding: 0.5rem;
+  background: ${colors.darkblue};
+  margin: 0 0.3rem;
 
   &:focus {
     outline: 0;
@@ -46,9 +41,10 @@ export const FilterButton = styled.button`
   ${props =>
     props.active
       ? css`
-          color: ${colors.yellow500};
+          color: ${colors.gray500};
         `
       : css`
+          background: transparent;
           color: ${colors.gray500};
         `}
 `
@@ -59,7 +55,7 @@ export const NDAWrapper = styled.footer`
 
   h2 {
     font-size: 1.1rem;
-    color: #000;
+    color: ${colors.blue900};
     margin-bottom: 0.75rem;
     line-height: 1.4em;
   }

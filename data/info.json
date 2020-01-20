@@ -2,7 +2,7 @@
   {
     "index": [
       {
-        "heading": "Let me introduce myself.",
+        "heading": "Howdy!",
         "paragraph":
           "I'm Ayush Sharma, a multidisciplinary developer who loves the intersection of art and code! Don't you think the web should be fun again? Buttons and sounds and layouts and experimentation? We have an amazing medium here to be able to express and do whatever we want. Bingo, that's what I do primarily. I work as a digital nomad/remote developer and make rad, fun little apps as a hobby and to make a living :D"
       },
@@ -44,12 +44,12 @@
     ],
     "profile": [
       {
-        "heading": "What am I great at?",
+        "heading": "Frontend Engineering",
         "paragraph":
-          "I have exceptional capabilities and a wide range  of language expertise that you won't find with other nearshore software solution providers. Always hungry for engineering challenges, I make efficient work of every project from new product design to re-platforming and web development to data scraping & visualization.",
+          "I'm constantly experimenting outside of client work to uncover unique layouts, styles, and interactions, and of late have been taking a lot of inspiration from fractals in particular.",
         "grid": [
           {
-            "heading": "",
+            "heading": "React",
             "paragraph": "",
             "icon": ""
           },
