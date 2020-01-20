@@ -10,13 +10,16 @@
 #  ======================================
 
 dir=$(pwd)
-gatsby build --prefix-paths && mv public/ docs/ && gh-pages -d public -b master
-git add . && git commit -m "Update source code."
+rm -rvf docs                                        && \
+gatsby clean                                        && \
+gatsby build --prefix-paths                         && \
+mv public/ docs/                                    && \
+gh-pages -d docs -b master                          && \
+git add . && git commit -m "Update source code."    && \
+git push --set-upstream origin +master
 
 #  ======================================
 #    Here, origin = a-y-u-s-h/portfolio
 #  ======================================
-
-git push --set-upstream origin +master
 
 cd $dir
