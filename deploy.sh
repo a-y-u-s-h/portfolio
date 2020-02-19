@@ -13,6 +13,7 @@ rm -rvf docs                                        && \
 gatsby clean                                        && \
 gatsby build --prefix-paths                         && \
 mv public/ docs/                                    && \
+rm -rvf .cache                                      && \
 gh-pages -d docs -b master                          && \
 git add . && git commit -m "Update source code."    && \
 git push -u origin +master -f
