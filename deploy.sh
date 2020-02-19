@@ -9,7 +9,6 @@
 #    build for the website.
 #  ======================================
 
-dir=$(pwd)
 rm -rvf docs                                        && \
 gatsby clean                                        && \
 gatsby build --prefix-paths                         && \
@@ -18,8 +17,4 @@ gh-pages -d docs -b master                          && \
 git add . && git commit -m "Update source code."    && \
 git push --set-upstream origin +master -f
 
-#  ======================================
-#    Here, origin = a-y-u-s-h/portfolio
-#  ======================================
-
-cd $dir
+# <------------------------------>
