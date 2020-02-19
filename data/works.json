@@ -39,7 +39,7 @@
   },
   {
     "title": "WaveOps",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/2",
     "description": "",
     "collaborators": [""],
@@ -48,7 +48,7 @@
   },
   {
     "title": "Warp Drive",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/3",
     "description": "",
     "collaborators": [""],
@@ -57,7 +57,7 @@
   },
   {
     "title": "Bouncing Balls",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/4",
     "description": "",
     "collaborators": [""],
@@ -66,7 +66,7 @@
   },
   {
     "title": "Lissajous Figure Creator",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/5",
     "description": "",
     "collaborators": [""],
@@ -75,7 +75,7 @@
   },
   {
     "title": "Fractal Implementation #1 : Tree",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/6",
     "description": "",
     "collaborators": [""],
@@ -84,7 +84,7 @@
   },
   {
     "title": "Orbital Motion : 2D implementation",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/7",
     "description": "",
     "collaborators": [""],
@@ -93,7 +93,7 @@
   },
   {
     "title": "Graph Paper - Customizable",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/8",
     "description": "",
     "collaborators": [""],
@@ -102,7 +102,7 @@
   },
   {
     "title": "Illusion of 3D with Squares",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/9",
     "description": "",
     "collaborators": [""],
@@ -111,7 +111,7 @@
   },
   {
     "title": "Particle : Cloud-ish Effect",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/10",
     "description": "",
     "collaborators": [""],
@@ -120,7 +120,7 @@
   },
   {
     "title": "Rotating 3D Cube (Primitive)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/11",
     "description": "",
     "collaborators": [""],
@@ -129,7 +129,7 @@
   },
   {
     "title": "Fractal Implementation #2 : Squares over Squares",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/12",
     "description": "",
     "collaborators": [""],
@@ -138,7 +138,7 @@
   },
   {
     "title": "Analog Clock Implementation #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/13",
     "description": "",
     "collaborators": [""],
@@ -147,7 +147,7 @@
   },
   {
     "title": "Sound Visualizer Implementation #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/14",
     "description": "",
     "collaborators": [""],
@@ -156,7 +156,7 @@
   },
   {
     "title": "Vector Field : 2D",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/15",
     "description": "",
     "collaborators": [""],
@@ -165,7 +165,7 @@
   },
   {
     "title": "Animation inspired from Crop Circle pattern",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/16",
     "description": "",
     "collaborators": [""],
@@ -174,7 +174,7 @@
   },
   {
     "title": "Gaussian Distribution of Points",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/17",
     "description": "",
     "collaborators": [""],
@@ -183,7 +183,7 @@
   },
   {
     "title": "Data Viz #1 : Pi upto 500 decimal places.",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/18",
     "description": "",
     "collaborators": [""],
@@ -192,7 +192,7 @@
   },
   {
     "title": "Spiral Pattern Implementation #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/19",
     "description": "",
     "collaborators": [""],
@@ -201,7 +201,7 @@
   },
   {
     "title": "Slightly Useful Typewriter",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/20",
     "description": "",
     "collaborators": [""],
@@ -210,7 +210,7 @@
   },
   {
     "title": "Fractal Implementation #3 : Circles",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/21",
     "description": "",
     "collaborators": [""],
@@ -219,7 +219,7 @@
   },
   {
     "title": "Dussehra 2017 - 2D Fireworks.",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/22",
     "description": "",
     "collaborators": [""],
@@ -228,7 +228,7 @@
   },
   {
     "title": "Spooky Eyes",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/23",
     "description": "",
     "collaborators": [""],
@@ -237,7 +237,7 @@
   },
   {
     "title": "Mouse Torch",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/24",
     "description": "",
     "collaborators": [""],
@@ -246,7 +246,7 @@
   },
   {
     "title": "3D Oscillations #1 - Cubes",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/25",
     "description": "",
     "collaborators": [""],
@@ -255,7 +255,7 @@
   },
   {
     "title": "Packing : Circles",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/26",
     "description": "",
     "collaborators": [""],
@@ -264,7 +264,7 @@
   },
   {
     "title": "Illusion with Circles #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/27",
     "description": "",
     "collaborators": [""],
@@ -273,7 +273,7 @@
   },
   {
     "title": "10 PRINT Pattern Implementation #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/28",
     "description": "",
     "collaborators": [""],
@@ -282,7 +282,7 @@
   },
   {
     "title": "Fractal Implementation #4 : Arcs",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/29",
     "description": "",
     "collaborators": [""],
@@ -291,7 +291,7 @@
   },
   {
     "title": "Deception with Colours #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/30",
     "description": "",
     "collaborators": [""],
@@ -300,7 +300,7 @@
   },
   {
     "title": "Yin Yang",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/31",
     "description": "",
     "collaborators": [""],
@@ -309,7 +309,7 @@
   },
   {
     "title": "2 dimensional iterative animation #1 : Maze",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/32",
     "description": "",
     "collaborators": [""],
@@ -318,7 +318,7 @@
   },
   {
     "title": "Sound Visualizer #2 : Bars",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/33",
     "description": "",
     "collaborators": [""],
@@ -327,7 +327,7 @@
   },
   {
     "title": "Pixel Data Manipulation #1 : Dance!",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/34",
     "description": "",
     "collaborators": [""],
@@ -336,7 +336,7 @@
   },
   {
     "title": "Cube Layers.",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/35",
     "description": "",
     "collaborators": [""],
@@ -345,7 +345,7 @@
   },
   {
     "title": "Fractal Implementation #5 : Cubes",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/36",
     "description": "",
     "collaborators": [""],
@@ -354,7 +354,7 @@
   },
   {
     "title": "2D Shape Customizer",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/37",
     "description": "",
     "collaborators": [""],
@@ -363,7 +363,7 @@
   },
   {
     "title": "Fractal Implementation #6 : Suits Animation",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/38",
     "description": "",
     "collaborators": [""],
@@ -372,7 +372,7 @@
   },
   {
     "title": "Algorithmic Botany : Tree v1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/39",
     "description": "",
     "collaborators": [""],
@@ -381,7 +381,7 @@
   },
   {
     "title": "Sound Propagation : Compression & Rarefaction Animation",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/40",
     "description": "",
     "collaborators": [""],
@@ -390,7 +390,7 @@
   },
   {
     "title": "Happy Diwali!",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/41",
     "description": "",
     "collaborators": [""],
@@ -399,7 +399,7 @@
   },
   {
     "title": "Mirrored Drawing Pad",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/42",
     "description": "",
     "collaborators": [""],
@@ -408,7 +408,7 @@
   },
   {
     "title": "The Matrix Terminal",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/43",
     "description": "",
     "collaborators": [""],
@@ -417,7 +417,7 @@
   },
   {
     "title": "Illusion with Circles #3",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/44",
     "description": "",
     "collaborators": [""],
@@ -426,7 +426,7 @@
   },
   {
     "title": "Illusion with Squares #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/45",
     "description": "",
     "collaborators": [""],
@@ -435,7 +435,7 @@
   },
   {
     "title": "Illusion with Circles #4",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/46",
     "description": "",
     "collaborators": [""],
@@ -444,7 +444,7 @@
   },
   {
     "title": "Illusion with Polygons : Hexagon #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/47",
     "description": "",
     "collaborators": [""],
@@ -453,7 +453,7 @@
   },
   {
     "title": "Illusion with Circles #5",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/48",
     "description": "",
     "collaborators": [""],
@@ -462,7 +462,7 @@
   },
   {
     "title": "Rotating Rectangular Brush",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/49",
     "description": "",
     "collaborators": [""],
@@ -471,7 +471,7 @@
   },
   {
     "title": "\u00bd Century",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/50",
     "description": "",
     "collaborators": [""],
@@ -480,7 +480,7 @@
   },
   {
     "title": "Abstract Geometrical Art #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/51",
     "description": "",
     "collaborators": [""],
@@ -489,7 +489,7 @@
   },
   {
     "title": "Abstract Geometrical Art #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/52",
     "description": "",
     "collaborators": [""],
@@ -498,7 +498,7 @@
   },
   {
     "title": "Noisy Plane",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/53",
     "description": "",
     "collaborators": [""],
@@ -507,7 +507,7 @@
   },
   {
     "title": "EMT - Ring & Point Charge System",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/54",
     "description": "",
     "collaborators": [""],
@@ -516,7 +516,7 @@
   },
   {
     "title": "Abstract Geometrical Art #3",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/55",
     "description": "",
     "collaborators": [""],
@@ -525,7 +525,7 @@
   },
   {
     "title": "Deception with Colours #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/56",
     "description": "",
     "collaborators": [""],
@@ -534,7 +534,7 @@
   },
   {
     "title": "Neural Network Viz #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/57",
     "description": "",
     "collaborators": [""],
@@ -543,7 +543,7 @@
   },
   {
     "title": "Neural Network Viz #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/58",
     "description": "",
     "collaborators": [""],
@@ -552,7 +552,7 @@
   },
   {
     "title": "Seizure Inducing Illusion",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/59",
     "description": "",
     "collaborators": [""],
@@ -561,7 +561,7 @@
   },
   {
     "title": "Fractal #7 : 3D Vicsek",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/60",
     "description": "",
     "collaborators": [""],
@@ -570,7 +570,7 @@
   },
   {
     "title": "SHM : Spring, Bob & Hinge System",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/61",
     "description": "",
     "collaborators": [""],
@@ -579,7 +579,7 @@
   },
   {
     "title": "Mathematical Flowerinator",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/62",
     "description": "",
     "collaborators": [""],
@@ -588,7 +588,7 @@
   },
   {
     "title": "Oscillating Sliders",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/63",
     "description": "",
     "collaborators": [""],
@@ -597,7 +597,7 @@
   },
   {
     "title": "Algorithmic Botany : Phyllotaxis",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/64",
     "description": "",
     "collaborators": [""],
@@ -606,7 +606,7 @@
   },
   {
     "title": "3D Sound Visualizer",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/65",
     "description": "",
     "collaborators": [""],
@@ -615,7 +615,7 @@
   },
   {
     "title": "2 Stars & 200 Particles",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/66",
     "description": "",
     "collaborators": [""],
@@ -624,7 +624,7 @@
   },
   {
     "title": "Dipole & Magnetic Particles",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/67",
     "description": "",
     "collaborators": [""],
@@ -633,7 +633,7 @@
   },
   {
     "title": "Young\u2019s Double Slit Experiment",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/68",
     "description": "",
     "collaborators": [""],
@@ -642,7 +642,7 @@
   },
   {
     "title": "Abstract Geometrical Art #4",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/69",
     "description": "",
     "collaborators": [""],
@@ -651,7 +651,7 @@
   },
   {
     "title": "Fractal Spirograph v1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/70",
     "description": "",
     "collaborators": [""],
@@ -660,7 +660,7 @@
   },
   {
     "title": "Algorithmic Botany : Trees #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/71",
     "description": "",
     "collaborators": [""],
@@ -669,7 +669,7 @@
   },
   {
     "title": "\u2018Trend\u2019 Line Calculator",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/72",
     "description": "",
     "collaborators": [""],
@@ -678,7 +678,7 @@
   },
   {
     "title": "Sound Viz - Mickey Mouse - Hot Dog",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/73",
     "description": "",
     "collaborators": [""],
@@ -687,7 +687,7 @@
   },
   {
     "title": "Menger Sponge Fractal",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/74",
     "description": "",
     "collaborators": [""],
@@ -696,7 +696,7 @@
   },
   {
     "title": "Schematic Diagram of a DC Machine",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/75",
     "description": "",
     "collaborators": [""],
@@ -705,7 +705,7 @@
   },
   {
     "title": "Stars and Particles : v2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/76",
     "description": "",
     "collaborators": [""],
@@ -714,7 +714,7 @@
   },
   {
     "title": "2D Rain Simulation",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/77",
     "description": "",
     "collaborators": [""],
@@ -723,7 +723,7 @@
   },
   {
     "title": "Metaballs / Isosurfaces in 2D canvas",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/78",
     "description": "",
     "collaborators": [""],
@@ -732,7 +732,7 @@
   },
   {
     "title": "Iterative Sketching #1 : Sun & Moon",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/79",
     "description": "",
     "collaborators": [""],
@@ -741,7 +741,7 @@
   },
   {
     "title": "Mountain Landscape",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/80",
     "description": "",
     "collaborators": [""],
@@ -750,7 +750,7 @@
   },
   {
     "title": "Abstract Geometrical Art #5",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/81",
     "description": "",
     "collaborators": [""],
@@ -759,7 +759,7 @@
   },
   {
     "title": "Geometry Viz : Area of \u0394",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/82",
     "description": "",
     "collaborators": [""],
@@ -768,7 +768,7 @@
   },
   {
     "title": "Particle Beanstalk",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/83",
     "description": "",
     "collaborators": [""],
@@ -777,7 +777,7 @@
   },
   {
     "title": "A Globe",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/84",
     "description": "",
     "collaborators": [""],
@@ -786,7 +786,7 @@
   },
   {
     "title": "Mouse Seekers #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/85",
     "description": "",
     "collaborators": [""],
@@ -795,7 +795,7 @@
   },
   {
     "title": "Metaballs / Isosurfaces v2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/86",
     "description": "",
     "collaborators": [""],
@@ -804,7 +804,7 @@
   },
   {
     "title": "Crazy Cells",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/87",
     "description": "",
     "collaborators": [""],
@@ -813,7 +813,7 @@
   },
   {
     "title": "Pixel Data Manipulation #2 : Ascii Art",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/88",
     "description": "",
     "collaborators": [""],
@@ -822,7 +822,7 @@
   },
   {
     "title": "Abstract Geometrical Art #6 : Hex Nuts",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/89",
     "description": "",
     "collaborators": [""],
@@ -831,7 +831,7 @@
   },
   {
     "title": "Iterative Sketching #2 : Furry Smoke",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/90",
     "description": "",
     "collaborators": [""],
@@ -840,7 +840,7 @@
   },
   {
     "title": "Iterative Sketching #3 : Stain",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/91",
     "description": "",
     "collaborators": [""],
@@ -849,7 +849,7 @@
   },
   {
     "title": "Arbitrary Sketch #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/92",
     "description": "",
     "collaborators": [""],
@@ -858,7 +858,7 @@
   },
   {
     "title": "Arbitrary Sketch #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/93",
     "description": "",
     "collaborators": [""],
@@ -867,7 +867,7 @@
   },
   {
     "title": "Squiggly Waves of Sun",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/94",
     "description": "",
     "collaborators": [""],
@@ -876,7 +876,7 @@
   },
   {
     "title": "Mouse Seekers #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/95",
     "description": "",
     "collaborators": [""],
@@ -885,7 +885,7 @@
   },
   {
     "title": "Iterative Sketching #4 : Fire Pit",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/96",
     "description": "",
     "collaborators": [""],
@@ -894,7 +894,7 @@
   },
   {
     "title": "Shape Morphing #1 : \u25b2 to \u2b24",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/97",
     "description": "",
     "collaborators": [""],
@@ -903,7 +903,7 @@
   },
   {
     "title": "Shape Morphing : + Controls",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/98",
     "description": "",
     "collaborators": [""],
@@ -912,7 +912,7 @@
   },
   {
     "title": "Artificial Life : Flocking Agents #1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/99",
     "description": "",
     "collaborators": [""],
@@ -921,7 +921,7 @@
   },
   {
     "title": "Artificial Life : Path Following Bots",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/100",
     "description": "",
     "collaborators": [""],
@@ -930,7 +930,7 @@
   },
   {
     "title": "Arbitrary Sketch #3 : Hypnotic Iris",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/101",
     "description": "",
     "collaborators": [""],
@@ -939,7 +939,7 @@
   },
   {
     "title": "Collision Detection : Particles",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/102",
     "description": "",
     "collaborators": [""],
@@ -948,7 +948,7 @@
   },
   {
     "title": "Koch Snowflake",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/103",
     "description": "",
     "collaborators": [""],
@@ -957,7 +957,7 @@
   },
   {
     "title": "Extracting Simpler Oscillations",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/104",
     "description": "",
     "collaborators": [""],
@@ -966,7 +966,7 @@
   },
   {
     "title": "Psychedelic Noisy Vectors",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/105",
     "description": "",
     "collaborators": [""],
@@ -975,7 +975,7 @@
   },
   {
     "title": "JS Reserved Keywords (2017)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/106",
     "description": "",
     "collaborators": [""],
@@ -984,7 +984,7 @@
   },
   {
     "title": "Maze Generation #1 : RB",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/107",
     "description": "",
     "collaborators": [""],
@@ -993,7 +993,7 @@
   },
   {
     "title": "Conway\u2019s Game of Life v1",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/108",
     "description": "",
     "collaborators": [""],
@@ -1002,7 +1002,7 @@
   },
   {
     "title": "Metaballs / Isosurfaces v3",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/109",
     "description": "",
     "collaborators": [""],
@@ -1011,7 +1011,7 @@
   },
   {
     "title": "Abstract Geometrical Art #7 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/110",
     "description": "",
     "collaborators": [""],
@@ -1020,7 +1020,7 @@
   },
   {
     "title": "Iterative Sketching #5 : Solar Flare",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/111",
     "description": "",
     "collaborators": [""],
@@ -1029,7 +1029,7 @@
   },
   {
     "title": "DNA : Double Helix (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/112",
     "description": "",
     "collaborators": [""],
@@ -1038,7 +1038,7 @@
   },
   {
     "title": "Abstract Geometrical Art #8 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/113",
     "description": "",
     "collaborators": [""],
@@ -1047,7 +1047,7 @@
   },
   {
     "title": "Artificial Life : Flocking Agents #2",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/114",
     "description": "",
     "collaborators": [""],
@@ -1056,7 +1056,7 @@
   },
   {
     "title": "Artificial Life : Flocking Agents #3",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/115",
     "description": "",
     "collaborators": [""],
@@ -1065,7 +1065,7 @@
   },
   {
     "title": "Abstract Geometrical Art #9 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/116",
     "description": "",
     "collaborators": [""],
@@ -1074,7 +1074,7 @@
   },
   {
     "title": "Abstract Geometrical Art #10 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/117",
     "description": "",
     "collaborators": [""],
@@ -1083,7 +1083,7 @@
   },
   {
     "title": "Abstract Geometrical Art #11 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/118",
     "description": "",
     "collaborators": [""],
@@ -1092,7 +1092,7 @@
   },
   {
     "title": "Electromagnetic Wave Propagation",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/119",
     "description": "",
     "collaborators": [""],
@@ -1101,7 +1101,7 @@
   },
   {
     "title": "Abstract Geometrical Art #12 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/120",
     "description": "",
     "collaborators": [""],
@@ -1110,7 +1110,7 @@
   },
   {
     "title": "Abstract Geometrical Art #13 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/121",
     "description": "",
     "collaborators": [""],
@@ -1119,7 +1119,7 @@
   },
   {
     "title": "Abstract Geometrical Art #14 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/122",
     "description": "",
     "collaborators": [""],
@@ -1128,7 +1128,7 @@
   },
   {
     "title": "Abstract Geometrical Art #15 (3D)",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/123",
     "description": "",
     "collaborators": [""],
@@ -1137,7 +1137,7 @@
   },
   {
     "title": "Color Spray!",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/124",
     "description": "",
     "collaborators": [""],
@@ -1146,7 +1146,7 @@
   },
   {
     "title": "Color Explosion!",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/125",
     "description": "",
     "collaborators": [""],
@@ -1155,7 +1155,7 @@
   },
   {
     "title": "Abstract Geometrical Art #16",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/126",
     "description": "",
     "collaborators": [""],
@@ -1164,7 +1164,7 @@
   },
   {
     "title": "Immortal Snake Adventures",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/127",
     "description": "",
     "collaborators": [""],
@@ -1173,7 +1173,7 @@
   },
   {
     "title": "Algorithm Visualizaiton : TSP - I",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/128",
     "description": "",
     "collaborators": [""],
@@ -1182,7 +1182,7 @@
   },
   {
     "title": "Ripple",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/129",
     "description": "",
     "collaborators": [""],
@@ -1191,7 +1191,7 @@
   },
   {
     "title": "Rainbow Rain",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/130",
     "description": "",
     "collaborators": [""],
@@ -1200,7 +1200,7 @@
   },
   {
     "title": "7 Segment Display",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/131",
     "description": "",
     "collaborators": [""],
@@ -1209,7 +1209,7 @@
   },
   {
     "title": "Stack Overflow 3D",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/132",
     "description": "",
     "collaborators": [""],
@@ -1218,7 +1218,7 @@
   },
   {
     "title": "Valentine\u2019s Day",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/133",
     "description": "",
     "collaborators": [""],
@@ -1227,7 +1227,7 @@
   },
   {
     "title": "Spheres on a Sphere",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/134",
     "description": "",
     "collaborators": [""],
@@ -1236,7 +1236,7 @@
   },
   {
     "title": "Pixel Tunnel",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/135",
     "description": "",
     "collaborators": [""],
@@ -1245,7 +1245,7 @@
   },
   {
     "title": "Algoviz : A* Search",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/136",
     "description": "",
     "collaborators": [""],
@@ -1254,7 +1254,7 @@
   },
   {
     "title": "Jelly Fish Prototype",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/137",
     "description": "",
     "collaborators": [""],
@@ -1263,7 +1263,7 @@
   },
   {
     "title": "Celebratory Explosions",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/138",
     "description": "",
     "collaborators": [""],
@@ -1272,7 +1272,7 @@
   },
   {
     "title": "Life Spreading Brush",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/139",
     "description": "",
     "collaborators": [""],
@@ -1281,7 +1281,7 @@
   },
   {
     "title": "Artificial Life : Cockroaches",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/140",
     "description": "",
     "collaborators": [""],
@@ -1290,7 +1290,7 @@
   },
   {
     "title": "Evolutionary Rockets",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/141",
     "description": "",
     "collaborators": [""],
@@ -1299,7 +1299,7 @@
   },
   {
     "title": "Connected Spring Mass System",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/142",
     "description": "",
     "collaborators": [""],
@@ -1308,7 +1308,7 @@
   },
   {
     "title": "Video Pixel Manipulation",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/143",
     "description": "",
     "collaborators": [""],
@@ -1317,7 +1317,7 @@
   },
   {
     "title": "Football Field",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/144",
     "description": "",
     "collaborators": [""],
@@ -1326,7 +1326,7 @@
   },
   {
     "title": "Video Pixel Manipulation 3D",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/145",
     "description": "",
     "collaborators": [""],
@@ -1335,7 +1335,7 @@
   },
   {
     "title": "Unstable Colorful Spirits",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/146",
     "description": "",
     "collaborators": [""],
@@ -1344,7 +1344,7 @@
   },
   {
     "title": "Squiggly Life*",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/147",
     "description": "",
     "collaborators": [""],
@@ -1353,7 +1353,7 @@
   },
   {
     "title": "3D Oscillations : Spheres on Sphere",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/148",
     "description": "",
     "collaborators": [""],
@@ -1362,7 +1362,7 @@
   },
   {
     "title": "Black Hole Activity",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/149",
     "description": "",
     "collaborators": [""],
@@ -1371,7 +1371,7 @@
   },
   {
     "title": "Geostats Dataviz: Wind",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/150",
     "description": "",
     "collaborators": [""],
@@ -1380,7 +1380,7 @@
   },
   {
     "title": "3D Oscillations : Rectangular Sheets",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/151",
     "description": "",
     "collaborators": [""],
@@ -1389,7 +1389,7 @@
   },
   {
     "title": "Poisson Disc Sampling Animated",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/152",
     "description": "",
     "collaborators": [""],
@@ -1398,7 +1398,7 @@
   },
   {
     "title": "Radially Shrinking Superellipses",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/153",
     "description": "",
     "collaborators": [""],
@@ -1407,7 +1407,7 @@
   },
   {
     "title": "Animated Cochleiod",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/154",
     "description": "",
     "collaborators": [""],
@@ -1416,7 +1416,7 @@
   },
   {
     "title": "Fluid Simulation",
-    "category": ["javascript"],
+    "category": ["javascript", "experiment"],
     "url": "https://ayushsharma.net/experiments/160",
     "description": "",
     "collaborators": [""],

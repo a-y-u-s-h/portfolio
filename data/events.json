@@ -1,5 +1,15 @@
 [
   {
+    "year": "2020 Feb - Present",
+    "position": "Generalist Programmer",
+    "company": "Camelot"
+  },
+  {
+    "year": "2020 Feb - Present",
+    "position": "Programming Supervisor",
+    "company": "Umbrella.qa"
+  },
+  {
     "year": "2019 July - Present",
     "position": "Founder and CTO",
     "company": "Raincode"
@@ -20,7 +30,7 @@
     "company": "Ucadd"
   },
   {
-    "year": "2019 July - 2019 August",
+    "year": "2019 July - 2019 Aug",
     "position": "Python Engineer",
     "company": "Savaari"
   },
@@ -31,7 +41,22 @@
   },
   {
     "year": "2019 May",
-    "position": "Graduated with B.E. (Hons.) in EEE",
+    "position": "Graduated with a Bachelor's in EEE",
     "company": "BITS Pilani"
+  },
+  {
+    "year": "2018 July - 2018 December",
+    "position": "Data Science Intern",
+    "company": "GEP Worldwide"
+  },
+  {
+    "year": "2017 May - 2017 Aug",
+    "position": "Frontend Developer",
+    "company": "AIIMS, Bhopal"
+  },
+  {
+    "year": "2016 Aug - 2017 Feb",
+    "position": "Generalist Developer",
+    "company": "Quark, BITS Goa"
   }
 ]
