@@ -15,6 +15,6 @@ gatsby build --prefix-paths                         && \
 mv public/ docs/                                    && \
 gh-pages -d docs -b master                          && \
 git add . && git commit -m "Update source code."    && \
-git push --set-upstream origin +master -f
+git push -u origin +master -f
 
 # <------------------------------>
