@@ -11,13 +11,8 @@
   },
   {
     "year": "2019 July - Present",
-    "position": "Founder and CTO",
+    "position": "Founder",
     "company": "Raincode"
-  },
-  {
-    "year": "2019 July - Present",
-    "position": "Interdisciplinary Developer",
-    "company": "Freelance"
   },
   {
     "year": "2019 March - Present",
@@ -58,5 +53,10 @@
     "year": "2016 Aug - 2017 Feb",
     "position": "Generalist Developer",
     "company": "Quark, BITS Goa"
+  },
+  {
+    "year": "2016 - Present",
+    "position": "Interdisciplinary Developer",
+    "company": "Freelance"
   }
 ]

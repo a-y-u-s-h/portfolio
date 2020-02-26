@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "yarn clean && gatsby develop",
     "clean": "gatsby clean",
-    "build": "yarn clean && gatsby build",
+    "build": "yarn clean && gatsby build --prefix-paths",
     "lint:css": "stylelint './src/**/*.js'",
     "lint:js": "eslint './src/**/*.js'",
     "gzip": "gzip -r public",

@@ -10,8 +10,7 @@
 #  ======================================
 
 rm -rvf docs                                        && \
-gatsby clean                                        && \
-gatsby build --prefix-paths                         && \
+yarn run build                                      && \
 mv public/ docs/                                    && \
 rm -rvf .cache                                      && \
 gh-pages -d docs -b master                          && \
